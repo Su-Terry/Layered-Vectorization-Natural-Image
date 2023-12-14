@@ -1,11 +1,6 @@
 # Layered-Vectorization-and-Editable-Representation-of-Natural-Images-for-Enhanced-Graphic-Editing
 
 ## Download
-Avoid the filepath-too-long error
-```
-git config --global core.longpaths true
-```
-
 Initial Download
 ```
 git clone --recursive https://github.com/Su-Terry/Layered-Vectorization-Natural-Image.git
