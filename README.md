@@ -8,6 +8,5 @@ git clone --recursive https://github.com/Su-Terry/Layered-Vectorization-and-Edit
 
 Or Update the submodule
 ```
-git submodule init
-git submodule update
+git submodule update --init --recursive
 ```
