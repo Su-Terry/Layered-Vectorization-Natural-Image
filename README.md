@@ -6,9 +6,22 @@ Initial Download
 git clone --recursive https://github.com/Su-Terry/Layered-Vectorization-Natural-Image.git
 ```
 
-Or Update the submodule
+Install OpenCV 4.1.2 or higher version
+Please references the website. https://shengyu7697.github.io/opencv-4-1-2-build-install-in-ubuntu/
+
+## Building Environment
 ```
-git submodule update --init --recursive
+bash ./install.sh
 ```
-OpenCV 4.1.2 Download tutorial
-https://subwaymatch.medium.com/opencv-410-with-vs-2019-3d0bc0c81d96
+
+## Testing
+For generating layered vectorized images.
+```
+bash ./dev_scripts/gen_apple_SAM.sh
+```
+```
+bash ./dev_scripts/gen_apple_Quant_SAM.sh
+```
+```
+bash ./dev_scripts/gen_apple_Quant_Blur_SAM.sh
+```
