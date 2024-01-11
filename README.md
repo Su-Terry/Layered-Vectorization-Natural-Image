@@ -28,3 +28,6 @@ bash ./dev_scripts/gen_apple_Quant_SAM.sh
 ```
 bash ./dev_scripts/gen_apple_Quant_Blur_SAM.sh
 ```
+
+## Re-generating segmentation mask
+plz check Sam+Quant folder for more details.
