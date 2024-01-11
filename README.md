@@ -9,6 +9,7 @@ git clone --recursive https://github.com/Su-Terry/Layered-Vectorization-Natural-
 Install OpenCV, nlopt, eigen3
 ```
 sudo apt install libopencv-dev libnlopt-dev libeigen3-dev
+sudo ln -s /usr/include/eigen3/Eigen /usr/include/Eigen
 ```
 
 ## Building Environment
