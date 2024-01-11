@@ -6,12 +6,14 @@ Initial Download
 git clone --recursive https://github.com/Su-Terry/Layered-Vectorization-Natural-Image.git
 ```
 
-Install OpenCV 4.1.2 or higher version
-Please references the website. https://shengyu7697.github.io/opencv-4-1-2-build-install-in-ubuntu/
+Install OpenCV, nlopt, eigen3
+```
+sudo apt install libopencv-dev libnlopt-dev libeigen3-dev
+```
 
 ## Building Environment
 ```
-bash ./install.sh
+bash ./build.sh
 ```
 
 ## Testing
