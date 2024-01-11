@@ -15,9 +15,6 @@ bash ./install.sh
 ```
 
 ## Testing
-For generating segmentation masks.
-
-
 For generating layered vectorized images.
 ```
 bash ./dev_scripts/gen_apple_SAM.sh
@@ -27,7 +24,4 @@ bash ./dev_scripts/gen_apple_Quant_SAM.sh
 ```
 ```
 bash ./dev_scripts/gen_apple_Quant_Blur_SAM.sh
-```
-```
-bash ./dev_scripts/gen_apple_photorealistic.sh
 ```
