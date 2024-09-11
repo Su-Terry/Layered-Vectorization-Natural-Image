@@ -1,5 +1,7 @@
 # Layered-Vectorization-and-Editable-Representation-of-Natural-Images-for-Enhanced-Graphic-Editing
 
+![image](https://github.com/user-attachments/assets/5800a055-4b7b-4dcd-94ce-69cfe9ea451d)
+
 ## Download
 Initial Download
 ```
