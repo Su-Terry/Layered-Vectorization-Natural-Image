@@ -1,4 +1,6 @@
 # Layered-Vectorization-and-Editable-Representation-of-Natural-Images-for-Enhanced-Graphic-Editing
+*Chih-Hai Su**, *Yi-Chuan Huang**  
+oceani.c@nycu.edu.tw, yichuanh.cs12@nycu.edu.tw  
 
 ![image](https://github.com/user-attachments/assets/5800a055-4b7b-4dcd-94ce-69cfe9ea451d)
 
